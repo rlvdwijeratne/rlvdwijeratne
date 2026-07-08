@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Vidu Wijeratne 👋
 
-<!--
-**rlvdwijeratne/rlvdwijeratne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Undergraduate  
+💻 Interested in Cyber Security, Programming & Technology  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- C
+- HTML & CSS
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🚀 Truth Table Visualizer using Python  
+🔐 Cybersecurity Learning Projects  
+🌐 Web Development Projects  
+
+## Goals
+Become a Cybersecurity Expert and Technology Entrepreneur.
+
+## Connect With Me
+GitHub: github.com/rlvdwijeratne
